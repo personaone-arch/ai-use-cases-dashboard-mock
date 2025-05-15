@@ -44,3 +44,4 @@ st.plotly_chart(fig_ryg, use_container_width=True)
 # Table of Filtered Use Cases
 st.subheader("Filtered Use Cases")
 st.dataframe(filtered_df)
+
